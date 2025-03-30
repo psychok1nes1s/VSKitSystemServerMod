@@ -1,0 +1,12 @@
+{
+    "type": "code",
+    "side": "server",
+    "modid": "kitsystem",
+    "name": "kitsystem",
+    "author": "psychokinesis",
+    "description": "kitsystem",
+    "version": "2.0.0",
+    "dependency": {
+      "game": ""
+    }
+}
